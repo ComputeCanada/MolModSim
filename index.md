@@ -14,7 +14,7 @@ The MolModSim team offers workshops in the field.
 Upcoming workshops will be added to [the Alliance's training calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
 and announced to our users via email newsletters.
 
-### Workshop material
+### Workshop Material
 
 Links to the workshop material that has been developed can be found here:
 
