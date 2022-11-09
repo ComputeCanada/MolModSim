@@ -3,7 +3,11 @@
 {% endcomment %}
 <footer>
   <div class="row">
-	<div class="col-md-8" align="left">
+	{% if site.kind == "workshop" %}
+	<div class="col-md-9" align="left">
+	{% else %}
+	<div class="col-md-6" align="left">
+	{% endif %}
 	  <h4>
 	{% if site.carpentry == "alliance" %}
 	Copyright &copy; 2016–2022 <a href="{{ site.cc_site }}">Compute Canada</a><br>
@@ -32,7 +36,11 @@
 	{% endif %}
 	  </h4>
 	</div>
-	<div class="col-md-4" align="right">
+	{% if site.kind == "workshop" %}
+	<div class="col-md-3" align="right">
+	{% else %}
+	<div class="col-md-6" align="right">
+	{% endif %}
 	  <h4>
 	{% if site.carpentry == "swc" or site.carpentry == "dc" or site.carpentry == "lc" or site.carpentry == "cp" %}
 	<a href="mailto:{{ site.email }}">Contact The Carpentries</a>
