@@ -64,7 +64,7 @@ cc_site: "https://www.computecanada.ca"
 alliance_site: "https://alliancecan.ca"
 cc_style_repo: "https://github.com/acenet-arc/cc-carpentries-styles"
 github_url: "https://github.com/ComputeCanada"
-github_io_url: "https://computecanada.github.io/"
+github_io_url: "https://computecanada.github.io"
 
 
 # Surveys.
