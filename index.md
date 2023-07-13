@@ -10,7 +10,7 @@ We provide specialized support to users of the Alliance's systems in the areas o
 
 ### Workshops
 
-The MolModSim team offers workshops in the field. 
+The MolModSim team offers workshops in the field of molecular sciences.
 Upcoming workshops will be added to [the Alliance's training calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
 and announced to our users via email newsletters.
 
@@ -37,8 +37,8 @@ Links to the workshop material that has been developed can be found here:
     <td><a href="{{site.github_io_url}}/molmodsim-md-theory-lesson-novice/reference" target="_blank" class="icon-eye" title="MD theory Reference Guide"></a></td>
     <td><a href="{{site.github_io_url}}/molmodsim-md-theory-lesson-novice/guide/" target="_blank" class="icon-circle-with-plus" title="MD theory Instructor Notes"></a></td>
     <td>
-        <a href="https://www.ace-net.ca/team/">Oliver Stueker</a>, 
-        <a href="https://www.ace-net.ca/team/">Serguei Vassiliev</a>
+        <a href="https://www.ace-net.ca/team/">Serguei Vassiliev</a>,
+        <a href="https://www.ace-net.ca/team/">Oliver Stueker</a>
     </td>
   </tr>
 
@@ -49,8 +49,8 @@ Links to the workshop material that has been developed can be found here:
     <td><a href="{{site.github_io_url}}/molmodsim-vmd-visualization/reference" target="_blank" class="icon-eye" title="VMD visualization Reference Guide"></a></td>
     <td><a href="{{site.github_io_url}}/molmodsim-vmd-visualization/guide/" target="_blank" class="icon-circle-with-plus" title="VMD visualization Instructor Notes"></a></td>
     <td>
-        <a href="https://www.ace-net.ca/team/">Oliver Stueker</a>, 
-        <a href="https://www.ace-net.ca/team/">Serguei Vassiliev</a>
+        <a href="https://www.ace-net.ca/team/">Serguei Vassiliev</a>,
+        <a href="https://www.ace-net.ca/team/">Oliver Stueker</a>
     </td>
   </tr>
 
